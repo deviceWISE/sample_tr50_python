@@ -1,0 +1,8 @@
+Metadata-Version: 1.0
+Name: TR500HTTP
+Version: 1.0
+Summary: Sample Python TR50 HTTP Library
+Author: Telit
+Author-email: support-devicewise@telit.com
+License: MIT
+Description: Sample code for communicating with the Telit IoT Platform via Python.
