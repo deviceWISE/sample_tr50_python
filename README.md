@@ -220,6 +220,8 @@ associated with the user. If the software is authenticated as an application,
 the software will only be able to successfully call methods available to the
 role associated with the application.
 
+See the class documents for [TR50http.py](TR50http.py.md) and [TR50httpWorker.py](TR50httpWorker.py.md)
+
 # License
 
 The MIT License (MIT)
